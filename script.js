@@ -8,3 +8,7 @@ function m() {
 
     d.style.backgroundPositionX = x + "px";
 }
+
+function n() {
+
+}
